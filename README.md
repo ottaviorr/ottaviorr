@@ -12,11 +12,14 @@
 - POO
 - React-Native
 
-### 🚀 Projetos e Contribuições
-- [Link para seu projeto mais interessante] - Descrição breve do que se trata
-- [Link para outro projeto] - Descrição breve do que se trata
-
 ### 💻 Tecnologias e Ferramentas
+- VS Code
+- HTML
+- CSS
+- JavaScript
+- TipeScipt
+- React
+- Java
 
 #### Linguagens e Tecnologias
 <p align="left">
