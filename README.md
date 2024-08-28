@@ -1,6 +1,3 @@
-Você pode adicionar gráficos e ícones ao README do seu perfil no GitHub usando Markdown e algumas ferramentas disponíveis para isso. Abaixo está uma versão atualizada do README que inclui ícones das tecnologias HTML, CSS, JavaScript, e React:
-
----
 
 ## 👋 Olá! Bem-vindo ao meu perfil no GitHub
 
@@ -38,8 +35,7 @@ Você pode adicionar gráficos e ícones ao README do seu perfil no GitHub usand
 </p>
 
 ### 🔗 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com) - [Seu Nome no LinkedIn]
-- [Seu Blog/Portfólio pessoal](https://www.seublog.com)
+- [LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-herdy-76a4a92a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - [Otávio Herdy]
 
 ---
 
