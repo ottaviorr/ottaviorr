@@ -29,10 +29,9 @@ Sou estudante de **Ciência da Computação** na Univértix e vivo no meio do ca
 Gosto de coisa que **funciona e fica bonita**: interfaces bem pensadas, automações que economizam horas e sites que convertem.
 
 - 🎓 8º período · TCC sobre **IA e o mercado de TI no Brasil**
-- 💼 Onboarding & Suporte na **AVA Partners** (agência GoHighLevel)
+- 💼 Gerente de projetos na **AVA Partners** (agência GoHighLevel)
 - 🎨 Curto **UX/UI** e motion design
-- 🔌 Brincando com **IoT e Arduino**
-- 🎸 Rock no fone · 🎮 GTA modado nas horas vagas
+- 🎸 Rock no fone
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -43,7 +42,6 @@ const otavio = {
   curso:  "Ciência da Computação",
   foco:   ["Web", "Mobile", "Automação"],
   agora:  ["TCC", "Compiladores", "UX/UI"],
-  cafe:   Infinity,
   status: "sempre aprendendo"
 };
 ```
